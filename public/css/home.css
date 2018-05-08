@@ -20,7 +20,7 @@
 .picture img {
 	max-width: 100%;
 }
-.modal-content .striped td {width: 50vw;}
+.modal-content .striped td { width: 50vw; }
 
 ::-webkit-scrollbar {
     width: 8px;
@@ -39,7 +39,7 @@
 	display: flex;
 	flex-wrap: wrap;
 }
-.color-patches li{
+.color-patches li {
 	width: 50px;
 	height: 50px;
 	margin:5px; 
